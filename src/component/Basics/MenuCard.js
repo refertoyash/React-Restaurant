@@ -1,11 +1,11 @@
 import React from 'react'
 
-const MenuCard = ({ menuData }) => {
+const MenuCard = ({ menu_data }) => {
 
   return (
     <>
       <section className="main-card--cointainer">
-        {menuData.map((curElem) => {
+        {menu_data.map((curElem) => {
           return (
             <div className="card-container">
               <div className="card">
