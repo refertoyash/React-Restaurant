@@ -1,0 +1,12 @@
+const Menu = [
+  {
+    id: 1,
+    image: "dsfsdf",
+    name: "maggie",
+    category: "lunch",
+    price: 25,
+    description: "loremafhgsfdsghdfsh "
+  },
+];
+
+export default Menu
